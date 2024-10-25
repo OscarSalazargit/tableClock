@@ -1,7 +1,7 @@
 # tableClock
 
-## Reloj con html css y javaScript
+## Watch with html css y javaScript
 
-<image src="tableClock.jpg" alt="Watch clock easy with JavaScript">
+<image src="tableClockpicture.jpg" alt="Watch clock easy with JavaScript">
 ***
 *Feel free to use in your projects*
